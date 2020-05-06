@@ -16,8 +16,8 @@ using namespace std;
 #define FETCH_WIDTH 1
 #define DECODE_WIDTH 1
 #define EXEC_WIDTH 1
-#define LQ_WIDTH 2
-#define SQ_WIDTH 2
+#define LQ_WIDTH 1
+#define SQ_WIDTH 1
 #define RETIRE_WIDTH 1
 #define SCHEDULER_SIZE 1
 #define BRANCH_MISPREDICT_PENALTY 1
